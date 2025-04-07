@@ -1,2 +1,2 @@
 
-Math practice questions [link ](Math/Ext2)
+Math practice questions [link ](Math/Ext2.md)
