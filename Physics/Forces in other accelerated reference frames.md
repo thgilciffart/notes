@@ -1,3 +1,6 @@
 $$
-\frac{32}{\pi \cdot \text{jasea}asdjia{}^{djioajsd aodjoaisjd}_{2}He}
+\begin{aligned}
+5 &= 32 \\
+x^2 &=5
+\end{aligned}
 $$
