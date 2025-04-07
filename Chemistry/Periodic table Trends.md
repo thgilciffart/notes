@@ -12,9 +12,7 @@
     - Greater **electrostatic** force between protons & electrons as you go across
 - Going down the groups, ionisation energy **decreases**
     - More shells are **added**, increasing distance, **lowering** the **electrostatic** force.
-
 # Electronegativity
-
 - **Refers** to the atom’s **ability** to **attract** to form a bond
 - Going across the periods, electronegativity **increases**
     - **Non-metals** tend to accept electrons to achieve stable configuration.
@@ -59,9 +57,3 @@ graph TD
 
 ```
 
-
-```
-flowchart TD
-Start --> Stop
-
-```
