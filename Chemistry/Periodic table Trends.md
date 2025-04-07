@@ -75,5 +75,3 @@ graph TD
 ```
 
   
-
-![image.png](Periodic%20Table%20trends%201b99035d330e8063b65fe9a980e8d0a0/image.png)
