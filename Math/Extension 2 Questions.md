@@ -2,7 +2,7 @@ $$\begin{aligned}
 \text{By writing} \frac{8-2x}{(1+x)(4+x^2)} \text{in the form} \frac{a}{1+x} + \frac{bx+c}{4+x^2} \\
 \end{aligned}
 $$$$
-\text{Hence integrate}\int_{0}^4{\frac{8-2x}{(1+x)(4+x^2)}}
+\text{Hence integrate}\int_{0}^4{\frac{8-2x}{(1+x)(4+x^2)}dx}
 $$
 $$\begin{aligned}
 a(4+x^2)+(bx+c)(1+x)&=8-2x \\
@@ -13,7 +13,9 @@ a &= 2 \\
 c&=0 \\
 2(4+1)+2b&=6 \\
 2b &= -4 \\
-b &= -2
+b &= -2 \\
+\int_{0}^4{\frac{2}{1+x}+\frac{-2x}{4+x^2}dx} \\
+\Bigr[2\ln|1+x|\Bigl]^4_{0}+\Bigr[ -\ln|4+x^2|\Bigl]^4_{0} &= 2\ln(5)-\ln(20)+\ln(4)
 \end{aligned}
 $$
 
