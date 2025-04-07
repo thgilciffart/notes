@@ -19,7 +19,38 @@
     - More shells are **added**, increasing distance, **lowering** the **electrostatic** force.
 
   
+```mermaid
 
+graph TD
+
+  A(Going across the period)
+
+  B(Going down the group)
+
+  C(Increases electrostatic force)
+
+  D(Increases ionisation energy)
+
+  E(Decreases electrostatic force)
+
+  F(Decreases ionisation energy)
+
+  G(Tighter packed atoms)
+
+  H(Less dense atoms)
+
+  J(Higher electronegativity)
+
+  K(Lower electronegativity)
+
+  B-->H-->E-->F
+
+  A-->G-->C-->D
+
+  C-->J
+
+  E-->K
+```
 # Electronegativity
 
   
