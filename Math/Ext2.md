@@ -22,11 +22,15 @@ b &= -2 \\
 \end{aligned}
 $$
 $$
-
+\text{Band 2 James Ruse 2022 Trial }
 $$
+$$
+\int{\frac{1}{\sqrt{3+2x-x^2}}dx}
+$$
+$$\begin{aligned}
 
-
-
+\end{aligned}
+$$
 
 
 
