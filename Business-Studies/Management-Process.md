@@ -24,4 +24,4 @@ An input is a resource that is uses during production
 6. Money - used to continue the production process
 
 # Price vs Quality
-The main objective of a business is to make a profit. To achieve this, a business must differentiate itself from the competition. Operations involves making decisions differentiating yourself base
+The main objective of a business is to make a profit. To achieve this, a business must differentiate itself from the competition. Operations involves making decisions differentiating yourself based on price vs quality.
