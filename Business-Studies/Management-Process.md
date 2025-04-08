@@ -10,8 +10,6 @@ Operations have a huge impact on
 - The total cost of delivering the good or service
 - The stock or staff available to satisfy customer demands
 ```mermaid
-```
-```mermaid
 flowchart LR
 Inputs --> Transformations --> Outputs
 
