@@ -1,1 +1,1 @@
- [Extension 2 Practice](Ext2.md)
+ [Extension 2 Practice](Math/Ext2/Ext2.md)
