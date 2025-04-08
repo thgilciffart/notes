@@ -22,3 +22,6 @@ An input is a resource that is uses during production
 4. Information - This is information on hand or readily available to the company that they can use to enhance their operations
 5. Time - Coordinating all the resources within a specific time frame
 6. Money - used to continue the production process
+
+# Price vs Quality
+The main objective of a business is to make a profit. To achieve this, a business must differentiate itself from the competition. Operations involves making decisions differentiating yourself base
