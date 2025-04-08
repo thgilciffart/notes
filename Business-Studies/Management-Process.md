@@ -27,9 +27,13 @@ An input is a resource that is uses during production
 The main objective of a business is to make a profit. To achieve this, a business must differentiate itself from the competition. Operations involves making decisions differentiating yourself based on price vs quality.
 ## How can a business add value?
 1. Customer service
+	1. 
 2. Cheaper
+	1. 
 3. Better quality
+	1. 
 4. Healthier
+	1. 
 5. Durability
 6. Warranty
 7. Faster e.g. delivery
