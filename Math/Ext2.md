@@ -28,10 +28,15 @@ $$
 \int{\frac{1}{\sqrt{3+2x-x^2}}dx}
 $$
 $$\begin{aligned}
-
+\int{\frac{dx}{\sqrt{-(x^2-2x-3)}}} \\
+\int{\frac{dx}{\sqrt{-(x^2-2x+1-3-1)}}} \\
+\int{\frac{dx}{\sqrt{-(x-1)^2+2^2}}} \\
+\arcsin\left( \frac{x-1}{2} \right) + C
 \end{aligned}
 $$
-
+$$
+2\ln(5)
+$$
 
 
 
