@@ -18,7 +18,8 @@ c&=0 \\
 2b &= -4 \\
 b &= -2 \\
 \int_{0}^4{\frac{2}{1+x}+\frac{-2x}{4+x^2}dx} \\
-\Bigr[2\ln|1+x|\Bigl]^4_{0}+\Bigr[ -\ln|4+x^2|\Bigl]^4_{0} = 2\ln(5)-\ln(20)+\ln(4)
+\Bigr[2\ln|1+x|\Bigl]^4_{0}+\Bigr[ -\ln|4+x^2|\Bigl]^4_{0} &= 2\ln(5)-\ln(20)+\ln(4) \\
+&=\ln(5)
 \end{aligned}
 $$
 $$
@@ -33,9 +34,6 @@ $$\begin{aligned}
 \int{\frac{dx}{\sqrt{-(x-1)^2+2^2}}} \\
 \arcsin\left( \frac{x-1}{2} \right) + C
 \end{aligned}
-$$
-$$
-2\ln(5)
 $$
 
 
