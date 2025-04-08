@@ -1,5 +1,5 @@
 $$
-\text{Day 6 difficulty 3 Cranbrook 2021 trials}
+\text{Difficulty 3 Cranbrook 2021 trials}
 $$
 $$\begin{aligned}
 \text{By writing} \frac{8-2x}{(1+x)(4+x^2)} \text{in the form} \frac{a}{1+x} + \frac{bx+c}{4+x^2} \\
@@ -21,4 +21,55 @@ b &= -2 \\
 \Bigr[2\ln|1+x|\Bigl]^4_{0}+\Bigr[ -\ln|4+x^2|\Bigl]^4_{0} = 2\ln(5)-\ln(20)+\ln(4)
 \end{aligned}
 $$
+$$
+
+$$
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
