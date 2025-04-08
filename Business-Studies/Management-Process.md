@@ -11,9 +11,14 @@ Operations have a huge impact on
 - The stock or staff available to satisfy customer demands
 ```mermaid
 flowchart LR
-Start --> Stop
+Inputs --> Transformations --> Outputs
 
 ```
 # Types of inputs
 An input is a resource that is uses during production
-1. Material - 
+1. Material - these are raw materials that are transformed in to products
+2. Capital equipment- this is a major, expensive equipment used to process the input into output
+3. Labour - the human resources needed to complete a job
+4. Information - This is information on hand or readily available to the company that they can use to enhance their operations
+5. Time - Coordinating all the resources within a specific time frame
+6. Money - used to continue the production process
