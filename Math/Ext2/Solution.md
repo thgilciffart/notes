@@ -29,7 +29,7 @@ $$\begin{aligned}
 $$
 
 $$\begin{aligned}
-\text{ii)}\frac{x+7}{1-x^2} &= \frac{A}{1+x} + \frac{B}{1-x} \\
+\text{ii)}\int\frac{x+7}{1-x^2} dx&= \int\frac{A}{1+x} + \frac{B}{1-x}dx \\
 A(1-x)+B(1+x)&=x+7 \\
 A(1-1)+B(1+1)&=1+7 \\
 B &= 4 \\
