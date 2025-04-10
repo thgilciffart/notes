@@ -35,8 +35,20 @@ $$
 - contact forces are exerted perpendicular to the surface
 
 # Practice Questions
-
+1. What force would be needed to make an object of 3kg accelerate at 1.6m/s/s
 $$\begin{aligned}
-\text{1) On the surface of Mars, the gravitational acceleration is} approximately 3.7m/s/s. What would be the weight of an astronaut in full EVA suit on Mars if the total mass was 130kg?
+F &=ma \\
+F &=3\cdot 1.6ms^{-2} \\
+F &=4.8N
+\end{aligned}
+
+$$
+2. A force 9.1N was applied to a box of mass 0.7kg resting on a smooth horizontal surface. What acceleration is expected?
+$$\begin{aligned}
+F&=ma \\
+9.1N&=0.7a \\
+a&=\frac{9.1}{0.7} \\
+a&=13ms^{-2}
 \end{aligned}
 $$
+3. An acceleration of 17m/s/s
