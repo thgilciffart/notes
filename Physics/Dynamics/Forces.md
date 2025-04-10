@@ -33,3 +33,10 @@ $$
 - Weight changes with gravity, but mass doesn't.
 # Normal force
 - contact forces are exerted perpendicular to the surface
+
+# Practice Questions
+
+$$\begin{aligned}
+\text{1) On the surface of Mars, the gravitational acceleration is} approximately 3.7m/s/s. What would be the weight of an astronaut in full EVA suit on Mars if the total mass was 130kg?
+\end{aligned}
+$$
