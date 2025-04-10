@@ -51,4 +51,19 @@ a&=\frac{9.1}{0.7} \\
 a&=13ms^{-2}
 \end{aligned}
 $$
-3. An acceleration of 17m/s/s
+3. An acceleration of 17m/s/s was produced when a force of 0.85N was applied to a body. What was the mass of the body?
+$$\begin{aligned}
+F&=ma \\
+0.85&=m17ms^{-2} \\
+m&=\frac{0.85}{17} \\
+m&=0.05kg
+\end{aligned}
+$$
+4. A sports car of mass 550kg accelerated from rest to 45m/s in 5.0s. What net force must have been applied to produce this acceleration?
+$$\begin{aligned}
+F&=ma \\
+F&=550\cdot 9ms^{-2} \\
+F&=4950N
+\end{aligned}
+
+$$
