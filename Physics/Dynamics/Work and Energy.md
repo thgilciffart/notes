@@ -16,3 +16,17 @@ $$
 	1. pushed 5m across a smooth floor with a force of 300N
 	2. lifted to a height of 2m and then carried for 10m
 	3. pushed for 20m around the room until it returns to its starting point?
+$$
+$$
+# Kinetic energy 
+- Energy of motion
+- Kinetic energy is equal to the work done by a force in moving an object initially at rest over a displacement
+$$
+\text{Work done} \ (W)=\Delta KE=KE_{f}-KE_{i}
+$$
+$$
+\text{ Where} \ KE_{f} = \text{ final Kinetic energy and } KE_{i} = \text{initial kenetic energy}
+$$
+$$
+KE=\frac{1}{2}mv^2
+$$
