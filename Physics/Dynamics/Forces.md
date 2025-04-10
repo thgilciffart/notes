@@ -67,3 +67,20 @@ F&=4950N
 \end{aligned}
 
 $$
+5. A rocket travelling at 55 m/s fired its motor which gave a thrust of 1880N. At the end of 6.2s, its velocity was 637.8m/s. What was the mass of the rocket during the process?
+$$\begin{aligned}
+a&=\frac{\Delta v}{\Delta t} \\
+a&=\frac{582.8}{6.2} \\
+a&=94ms^{-2} \\
+F&=ma \\
+\frac{F}{a}&=m \\
+m&=\frac{1880}{94} \\
+m&=20kg
+\end{aligned}
+
+$$
+6. The force applied by a fan to an air track glider of mass 850g was 0.34N. How long did it take the glider to travel 80cm if it starting rom rest?
+
+$$
+
+$$
