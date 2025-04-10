@@ -1,0 +1,10 @@
+- Energy is the quantity that all objects possess and is what is needed to do work
+	- Energy is a scalar quantity and uses joules
+	- Comes in the form of sound, heat, light, kinetic, potential
+- Work is a transfer of energy from one place or one object to another
+$$
+W=Fs\cos \theta
+$$
+- Work can be positive or negative
+	- Positive when there is a net gain in energy
+	- Negative when there is a net loss in energy
