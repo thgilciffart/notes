@@ -30,3 +30,29 @@ $$
 $$
 KE=\frac{1}{2}mv^2
 $$
+## Practice Questions
+$$
+\begin{aligned}
+&\text{1) Calculate the kinetic energy of a body of mass 7.0kg moving at } \\
+&1.2ms^{-1}
+\end{aligned}
+$$
+$$
+\begin{aligned}
+KE&=\frac{1}{2}mv^{2} \\
+KE&=\frac{1}{2}\cdot 7 \cdot 1.2^{2} \\
+KE&=5.04J
+\end{aligned}
+$$
+$$
+\begin{aligned}
+&\text{2) 28.8J of work were done in accelerating a mass of 1.8kg from rest.} \\
+&\text{Find the final velocity}
+\end{aligned}
+$$
+$$
+\begin{aligned}
+v&=\sqrt{ \frac{2KE}{m} } \\
+v&=\sqrt{ 2\cdot 28.8) }
+\end{aligned}
+$$
