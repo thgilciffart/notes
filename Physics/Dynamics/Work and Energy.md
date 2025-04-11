@@ -7,6 +7,7 @@ $$
 W=Fs\cos \theta
 $$
 
+
 - Work can be positive or negative
 	- Positive when there is a net gain in energy
 	- Negative when there is a net loss in energy
