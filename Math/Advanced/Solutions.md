@@ -24,7 +24,11 @@ $$
 $$
 $$\begin{aligned}
 h(t)&=65-55\cos\left( \frac{\pi t}{15} \right) \\
-h'(t)&=-55\cdot \frac{\pi}{15}\cdot-\sin\left( \frac{\pi t}{15} \right)
+h'(t)&=-55\cdot \frac{\pi}{15}\cdot-\sin\left( \frac{\pi t}{15} \right) \\
+h'(t)&=\frac{11\pi}{3}\cdot \sin\left( \frac{\pi t}{15} \right) \\
+&\text{When }\sin \frac{\pi t}{15}=1, \text{ rate of change is maximised } \\
+\frac{\pi t}{15}&=\frac{\pi}{2} \\
+t&=\frac{15}{2} \text{ minutes}
 \end{aligned}
 
 $$
