@@ -65,7 +65,6 @@ $$
 v&=\sqrt{ \frac{2KE}{m} } \\
 v&=\sqrt{ \frac{2\cdot 28.8}{1.8} } \\
 v&=4\sqrt{ 2 } ms^{-1}
-
 \end{aligned}
 $$
 
