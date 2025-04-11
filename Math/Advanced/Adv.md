@@ -3,7 +3,7 @@
 ## 2025-04-11 
 1. Point P on a Ferris wheel is modelled by the equation, where h is the metres above the ground and time is in minutes. 
 $$
-h(t)=65-\cos\left( \frac{\pi t}{15} \right)
+h(t)=65-55\cos\left( \frac{\pi t}{15} \right)
 $$
 $$\begin{aligned}
 &\text{i) State the maximum and minimum heights of P? }  \\
