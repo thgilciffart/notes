@@ -53,6 +53,24 @@ $$
 $$
 \begin{aligned}
 v&=\sqrt{ \frac{2KE}{m} } \\
-v&=\sqrt{ 2\cdot 28.8) }
+v&=\sqrt{ \frac{2\cdot 28.8}{1.8} } \\
+v&=4\sqrt{ 2 } ms^{-1}
+
+\end{aligned}
+$$
+$$
+\begin{aligned}
+&\text{3) A car of 550kg accelerated from 12m/s to 25m/s. What was } \\
+&\text{the increase in kinetic energy?}
+\end{aligned}
+$$
+$$
+\begin{aligned}
+KE&=\frac{1}{2}mv^{2} \\
+KE&=\frac{550}{2}\cdot 12^{2} \\
+&=39600J \\
+KE&=\frac{550}{2}\cdot 25^{2} \\
+&= 171875J \\
+\Delta&=132275J
 \end{aligned}
 $$
