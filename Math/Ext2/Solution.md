@@ -1,6 +1,7 @@
 $$
 \text{Difficulty 3 Cranbook 2021 Trials}
 $$
+
 $$\begin{aligned}
 a(4+x^2)+(bx+c)(1+x)&=8-2x \\
 a(4+(-1)^2)+(bx+c)(1-1) &=8--2 \\
@@ -16,11 +17,13 @@ b &= -2 \\
 &=\ln(5)
 \end{aligned}
 $$
+
 $$
 \text{Band 2 James Ruse 2022 Trial }
 $$
 
-$$\begin{aligned}
+$$
+\begin{aligned}
 \text{i)}\int{\frac{dx}{\sqrt{-(x^2-2x-3)}}} \\
 \int{\frac{dx}{\sqrt{-(x^2-2x+1-3-1)}}} \\
 \int{\frac{dx}{\sqrt{-(x-1)^2+2^2}}} \\
@@ -28,7 +31,8 @@ $$\begin{aligned}
 \end{aligned}
 $$
 
-$$\begin{aligned}
+$$
+\begin{aligned}
 \text{ii)}\int\frac{x+7}{1-x^2} dx&= \int\frac{A}{1+x} + \frac{B}{1-x}dx \\
 A(1-x)+B(1+x)&=x+7 \\
 A(1-1)+B(1+1)&=1+7 \\
